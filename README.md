@@ -1,6 +1,6 @@
 ### Hi there 👋 
 
-- 🛡️ Co-Founder @ [Cyfrin](https://www.cyfrin.io/) , [Alphachain](https://www.alphachain.io/) & [ChainAccel](https://github.com/ChainAccelOrg)
+- 🛡️ Co-Founder @ [Cyfrin](https://www.cyfrin.io/)
 - 💻 Previously: Smart Contracts @ [Chainlink Labs](https://chainlinklabs.com/)
 - 📚 Show me your [Huff](https://github.com/huff-language)
 - 💬 Ask me about the [EVM](https://ethereum.org/en/developers/docs/evm/), [Solidity](https://docs.soliditylang.org/), Smart Contracts, [Chainlink](https://chain.link), [Compound Finance Oracles](https://www.comp.xyz/t/oracle-infrastructure-chainlink-proposal/1272/78) or [Welsh Football](https://www.youtube.com/watch?v=emPhXdwhQoE)🏴󠁧󠁢󠁷󠁬󠁳󠁿⚽️
