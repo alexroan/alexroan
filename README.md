@@ -2,13 +2,14 @@
 
 - 🛡️ Co-Founder @ [Cyfrin](https://www.cyfrin.io/)
 - 💻 Previously: Smart Contracts @ [Chainlink Labs](https://chainlinklabs.com/)
-- 📚 Show me your [Huff](https://github.com/huff-language)
-- 💬 Ask me about the [EVM](https://ethereum.org/en/developers/docs/evm/), [Solidity](https://docs.soliditylang.org/), Smart Contracts, [Chainlink](https://chain.link), [Compound Finance Oracles](https://www.comp.xyz/t/oracle-infrastructure-chainlink-proposal/1272/78) or [Welsh Football](https://www.youtube.com/watch?v=emPhXdwhQoE)🏴󠁧󠁢󠁷󠁬󠁳󠁿⚽️
+- 🧠 Currently focussing on Cyfrin - Levelling up Web3 Security
+- 💬 Major contributions to Web3:
+    - [Chainlink Labs Smart Contracts](https://github.com/smartcontractkit/chainlink)
+    - [Compound Finance](https://compound.finance/) - [Oracles](https://github.com/smartcontractkit/open-oracle)
+    - [GMX](https://gmx.io/#/) - [High-Frequency Onchain Automation](https://github.com/Cyfrin/chainlink-gmx-automation)
+    - [Co-founding Cyfrin](https://www.cyfrin.io/)
+    - [Automated Vulnerability Detection](https://github.com/Cyfrin/aderyn)
 - 📫 Twitter: [@alexroan](https://twitter.com/alexroan)
 - 🌱 Lens: [alexroan.lens](https://lenster.xyz/u/alexroan.lens)
-- 📥 ENS: [alexroan.eth]()
-
-### Github Stats
-
-![](https://github-readme-stats.vercel.app/api?username=alexroan&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=alexroan&theme=dark&hide_border=false)<br/>
+- 🏛️ Farcaster: [alexroan](https://warpcast.com/alexroan/)
+- 📥 ENS: `alexroan.eth`
