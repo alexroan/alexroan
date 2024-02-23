@@ -9,6 +9,9 @@
     - [GMX](https://gmx.io/#/) - [High-Frequency Onchain Automation](https://github.com/Cyfrin/chainlink-gmx-automation)
     - [Co-founding Cyfrin](https://www.cyfrin.io/)
     - [Automated Vulnerability Detection](https://github.com/Cyfrin/aderyn)
+- 😎 Other contributions of note:
+    - [USM Stablecoin](https://github.com/usmfum/USM)
+    - [ZK Circuits](https://github.com/alexroan/zk-playground)
 - 📫 Twitter: [@alexroan](https://twitter.com/alexroan)
 - 🌱 Lens: [alexroan.lens](https://lenster.xyz/u/alexroan.lens)
 - 🏛️ Farcaster: [alexroan](https://warpcast.com/alexroan/)
