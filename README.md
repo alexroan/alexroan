@@ -1,6 +1,6 @@
 ### Hi there 👋 
 
-- 🛡️ Co-Founder @ [Cyfrin](https://www.cyfrin.io/)
+- 🛡️ Co-Founder, CTO @ [Cyfrin](https://www.cyfrin.io/)
 - 💻 Previously: Smart Contracts @ [Chainlink Labs](https://chainlinklabs.com/)
 - 🧠 Currently focussing on Cyfrin - Levelling up Web3 Security
 - 💬 Major contributions to Web3:
