@@ -2,7 +2,6 @@
 
 - 🛡️ Co-Founder of [Cyfrin](https://www.cyfrin.io/)
 - 💻 Previously: Smart Contracts @ [Chainlink Labs](https://chainlinklabs.com/)
-- 🧠 Currently focussing on Cyfrin - Levelling up Web3 Security
 - 💬 Web3 stuff:
     - [Automated Vulnerability Detection](https://github.com/Cyfrin/aderyn)
     - [Chainlink Labs Smart Contracts](https://github.com/smartcontractkit/chainlink)
